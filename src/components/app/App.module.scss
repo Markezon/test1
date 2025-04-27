@@ -1,0 +1,57 @@
+.app {
+  background-color: #fafafa;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.content {
+  padding: 20px;
+}
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: #ffccff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #ff99ff;
+}
+.app {
+  background-color: #fafafa;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.content {
+  padding: 20px;
+}
+
+.checkboxes {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+/*   gap: 10px; */
+  font-size: 1.2rem;
+}
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: #ffccff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #ff99ff;
+}

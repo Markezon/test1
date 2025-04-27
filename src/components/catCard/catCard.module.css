@@ -1,0 +1,18 @@
+.card {
+  margin-top: 20px;
+  border: 2px solid #eee;
+  border-radius: 15px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.4s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.image {
+  height: 600px;
+  object-fit: cover;
+}
